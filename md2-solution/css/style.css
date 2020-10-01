@@ -1,5 +1,7 @@
 * {
 	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
 }
 
 h1 {
@@ -50,6 +52,7 @@ section {
 	margin-top: 0;
 	padding: 5px;
 	background-color: #FFFF00;
+	opacity:0.8;
 }
 
 #beef {
@@ -64,6 +67,7 @@ section {
 	padding: 5px;
 	color:white;
 	background-color: #FF1439;
+	opacity:0.8;
 }
 
 #sushi {
@@ -78,6 +82,7 @@ section {
 	background-color: #6495ED;
 	color: white;
 	padding: 5px;
+	opacity:0.8;
 }
 
 .row {
